@@ -4,7 +4,7 @@ namespace Test
     {
         internal void Execute()
         {
-            string message = "Success fetch.";
+            string message = "Hello fetch.";
 
             Console.WriteLine(message);
         }
